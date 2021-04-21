@@ -8,6 +8,19 @@ All things listed in https://v5.getbootstrap.com/docs/5.0/components/dropdowns/ 
 
 Dropdown of bootstrap can be easily changed to infinite level. It's a pity that they didn't do it.
 
+## NPM Install
+
+```
+npm install AdvancedStyle/bootstrap-5-multi-level-dropdown
+```
+
+```
+window.bootstrap = require('bootstrap');
+
+require('bootstrap-5-multi-level-dropdown');
+
+```
+
 ## Usage
 
 ### Base
