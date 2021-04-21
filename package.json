@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-5-multi-level-dropdown",
+  "version": "1.0.0",
+  "description": "Nested Dropdowns for Bootstrap 5",
+  "main": "bootstrap5-dropdown-ml-hack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdvancedStyle/bootstrap-5-multi-level-dropdown.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "5",
+    "Nested",
+    "Dropdowns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdvancedStyle/bootstrap-5-multi-level-dropdown/issues"
+  },
+  "homepage": "https://github.com/AdvancedStyle/bootstrap-5-multi-level-dropdown#readme"
+}
